@@ -1,0 +1,8 @@
+apiVersion: v2
+name: redis-ha
+description: Highly available Redis StatefulSet with Sentinel failover support
+type: application
+version: 2.1.0
+appVersion: "7.2.4"
+maintainers:
+  - name: txltedxgod
